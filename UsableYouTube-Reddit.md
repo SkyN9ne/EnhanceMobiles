@@ -17,4 +17,4 @@ It remembers the quality you set so you don't have to adjust it every damn time.
 
 You can also download videos using for example `Seal`
 
-For iOS and web video download <https://revanced.dev>
+For iOS version `YouTube++` and browser video downloading <https://revanced.dev>
